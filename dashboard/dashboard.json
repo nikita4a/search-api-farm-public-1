@@ -8,7 +8,7 @@
       "key_preview": "",
       "meta": {
         "svc": "ANTICAPTCHA",
-        "key": "7a5e25…REDACTED",
+        "key": "7a5e25\u2026REDACTED",
         "balance": "PAYG"
       },
       "status": "balance",
@@ -21,7 +21,7 @@
       "key_preview": "",
       "meta": {
         "svc": "ANTICAPTCHA",
-        "key": "fa6e62…REDACTED",
+        "key": "fa6e62\u2026REDACTED",
         "balance": "PAYG"
       },
       "status": "balance",
@@ -34,7 +34,7 @@
       "key_preview": "",
       "meta": {
         "svc": "ANTICAPTCHA",
-        "key": "ec2a10…REDACTED",
+        "key": "ec2a10\u2026REDACTED",
         "balance": "PAYG"
       },
       "status": "balance",
@@ -47,7 +47,7 @@
       "key_preview": "",
       "meta": {
         "svc": "ANTICAPTCHA",
-        "key": "df52ca…REDACTED",
+        "key": "df52ca\u2026REDACTED",
         "balance": "PAYG"
       },
       "status": "balance",
@@ -60,7 +60,7 @@
       "key_preview": "",
       "meta": {
         "svc": "ANTICAPTCHA",
-        "key": "009af7…REDACTED",
+        "key": "009af7\u2026REDACTED",
         "balance": "PAYG"
       },
       "status": "balance",
@@ -73,7 +73,7 @@
       "key_preview": "",
       "meta": {
         "svc": "ANTICAPTCHA",
-        "key": "03ea83…REDACTED",
+        "key": "03ea83\u2026REDACTED",
         "balance": "PAYG"
       },
       "status": "balance",
@@ -86,7 +86,7 @@
       "key_preview": "",
       "meta": {
         "svc": "ANTICAPTCHA",
-        "key": "e8c877…REDACTED",
+        "key": "e8c877\u2026REDACTED",
         "balance": "PAYG"
       },
       "status": "balance",
@@ -99,7 +99,7 @@
       "key_preview": "",
       "meta": {
         "svc": "ANTICAPTCHA",
-        "key": "03698f…REDACTED",
+        "key": "03698f\u2026REDACTED",
         "balance": "PAYG"
       },
       "status": "balance",
@@ -108,7 +108,7 @@
     {
       "svc": "apilio",
       "display": "apilio",
-      "key": "rotato…REDACTED",
+      "key": "rotato\u2026REDACTED",
       "key_preview": "rotator-local-pool",
       "meta": {},
       "status": "ok",
@@ -128,7 +128,7 @@
     {
       "svc": "chuan",
       "display": "chuan",
-      "key": "rotato…REDACTED",
+      "key": "rotato\u2026REDACTED",
       "key_preview": "rotator-local-pool",
       "meta": {},
       "status": "ok",
@@ -159,10 +159,10 @@
     {
       "svc": "exa",
       "display": "exa",
-      "key": "e5443a…REDACTED",
-      "key_preview": "e5443a78-49f…a0ca",
+      "key": "e5443a\u2026REDACTED",
+      "key_preview": "e5443a78-49f\u2026a0ca",
       "meta": {
-        "email": "h.ilja…REDACTED",
+        "email": "h.ilja\u2026REDACTED",
         "verify": "None"
       },
       "status": "ok",
@@ -171,10 +171,10 @@
     {
       "svc": "exa",
       "display": "exa",
-      "key": "56f962…REDACTED",
-      "key_preview": "56f962d6-ed4…8cc3",
+      "key": "56f962\u2026REDACTED",
+      "key_preview": "56f962d6-ed4\u20268cc3",
       "meta": {
-        "email": "pixelp…REDACTED",
+        "email": "pixelp\u2026REDACTED",
         "verify": "None"
       },
       "status": "ok",
@@ -183,10 +183,10 @@
     {
       "svc": "exa",
       "display": "exa",
-      "key": "9e99d2…REDACTED",
-      "key_preview": "9e99d2b9-287…cfad",
+      "key": "9e99d2\u2026REDACTED",
+      "key_preview": "9e99d2b9-287\u2026cfad",
       "meta": {
-        "email": "andy.n…REDACTED",
+        "email": "andy.n\u2026REDACTED",
         "verify": "None"
       },
       "status": "ok",
@@ -195,8 +195,8 @@
     {
       "svc": "exa2",
       "display": "exa2",
-      "key": "e5443a…REDACTED",
-      "key_preview": "e5443a78-49f…a0ca",
+      "key": "e5443a\u2026REDACTED",
+      "key_preview": "e5443a78-49f\u2026a0ca",
       "meta": {},
       "status": "ok",
       "limit": ""
@@ -204,8 +204,8 @@
     {
       "svc": "exa3",
       "display": "exa3",
-      "key": "56f962…REDACTED",
-      "key_preview": "56f962d6-ed4…8cc3",
+      "key": "56f962\u2026REDACTED",
+      "key_preview": "56f962d6-ed4\u20268cc3",
       "meta": {},
       "status": "ok",
       "limit": ""
@@ -213,8 +213,8 @@
     {
       "svc": "exa4",
       "display": "exa4",
-      "key": "9e99d2…REDACTED",
-      "key_preview": "9e99d2b9-287…cfad",
+      "key": "9e99d2\u2026REDACTED",
+      "key_preview": "9e99d2b9-287\u2026cfad",
       "meta": {},
       "status": "ok",
       "limit": ""
@@ -222,8 +222,8 @@
     {
       "svc": "exa5",
       "display": "exa5",
-      "key": "957d87…REDACTED",
-      "key_preview": "957d87d2-401…18a2",
+      "key": "957d87\u2026REDACTED",
+      "key_preview": "957d87d2-401\u202618a2",
       "meta": {},
       "status": "ok",
       "limit": ""
@@ -231,8 +231,8 @@
     {
       "svc": "exa6",
       "display": "exa6",
-      "key": "3f4297…REDACTED",
-      "key_preview": "3f429745-378…7445",
+      "key": "3f4297\u2026REDACTED",
+      "key_preview": "3f429745-378\u20267445",
       "meta": {},
       "status": "ok",
       "limit": ""
@@ -240,10 +240,10 @@
     {
       "svc": "firecrawl",
       "display": "firecrawl",
-      "key": "fc-a06…REDACTED",
-      "key_preview": "fc-a0608aba6…03c8",
+      "key": "fc-a06\u2026REDACTED",
+      "key_preview": "fc-a0608aba6\u202603c8",
       "meta": {
-        "email": "t.e.19…REDACTED",
+        "email": "t.e.19\u2026REDACTED",
         "verify": "None"
       },
       "status": "ok",
@@ -274,7 +274,7 @@
     {
       "svc": "flushapi",
       "display": "flushapi",
-      "key": "rotato…REDACTED",
+      "key": "rotato\u2026REDACTED",
       "key_preview": "rotator-local-pool",
       "meta": {},
       "status": "ok",
@@ -283,7 +283,7 @@
     {
       "svc": "gptge",
       "display": "gptge",
-      "key": "rotato…REDACTED",
+      "key": "rotato\u2026REDACTED",
       "key_preview": "rotator-local-pool",
       "meta": {},
       "status": "ok",
@@ -308,7 +308,7 @@
     {
       "svc": "hoplite",
       "display": "hoplite",
-      "key": "sk-hop…REDACTED",
+      "key": "sk-hop\u2026REDACTED",
       "key_preview": "sk-hoplite-proxy",
       "meta": {},
       "status": "ok",
@@ -317,8 +317,8 @@
     {
       "svc": "jina",
       "display": "jina",
-      "key": "jina_f…REDACTED",
-      "key_preview": "jina_fc0e9dc…QLmd",
+      "key": "jina_f\u2026REDACTED",
+      "key_preview": "jina_fc0e9dc\u2026QLmd",
       "meta": {},
       "status": "ok",
       "limit": ""
@@ -326,8 +326,8 @@
     {
       "svc": "jucodex",
       "display": "jucodex",
-      "key": "8RkMx2…REDACTED",
-      "key_preview": "8RkMx2lIanon…IvGd",
+      "key": "8RkMx2\u2026REDACTED",
+      "key_preview": "8RkMx2lIanon\u2026IvGd",
       "meta": {},
       "status": "ok",
       "limit": ""
@@ -335,7 +335,7 @@
     {
       "svc": "keyfarm",
       "display": "keyfarm",
-      "key": "keyfar…REDACTED",
+      "key": "keyfar\u2026REDACTED",
       "key_preview": "keyfarm-pool-rotated",
       "meta": {},
       "status": "ok",
@@ -344,8 +344,8 @@
     {
       "svc": "moxin",
       "display": "moxin",
-      "key": "ckREop…REDACTED",
-      "key_preview": "ckREopQJtnCp…fDAL",
+      "key": "ckREop\u2026REDACTED",
+      "key_preview": "ckREopQJtnCp\u2026fDAL",
       "meta": {},
       "status": "ok",
       "limit": ""
@@ -353,7 +353,7 @@
     {
       "svc": "notion",
       "display": "notion",
-      "key": "sk-not…REDACTED",
+      "key": "sk-not\u2026REDACTED",
       "key_preview": "sk-notion-gateway",
       "meta": {},
       "status": "ok",
@@ -362,16 +362,28 @@
     {
       "svc": "octopusx",
       "display": "octopusx",
-      "key": "octopu…REDACTED",
-      "key_preview": "octopusx-poo…ated",
+      "key": "octopu\u2026REDACTED",
+      "key_preview": "octopusx-poo\u2026ated",
       "meta": {},
       "status": "ok",
       "limit": ""
     },
     {
+      "svc": "parallel",
+      "display": "parallel",
+      "key": "p8cA1o\u2026REDACTED",
+      "key_preview": "p8cA1oahxh\u2026J1w-",
+      "meta": {
+        "models": "parallel, lite, base, core",
+        "verify": "POST /v1/search 200"
+      },
+      "status": "ok",
+      "limit": "lite-tier"
+    },
+    {
       "svc": "oneorigin",
       "display": "oneorigin",
-      "key": "rotato…REDACTED",
+      "key": "rotato\u2026REDACTED",
       "key_preview": "rotator-local-pool",
       "meta": {},
       "status": "ok",
@@ -389,7 +401,7 @@
     {
       "svc": "runinfra",
       "display": "runinfra",
-      "key": "RUNINF…REDACTED",
+      "key": "RUNINF\u2026REDACTED",
       "key_preview": "RUNINFRA_GATEWAY_KEY",
       "meta": {},
       "status": "ok",
@@ -420,10 +432,10 @@
     {
       "svc": "serpapi",
       "display": "serpapi",
-      "key": "617ab9…REDACTED",
-      "key_preview": "617ab9e6809e…1213",
+      "key": "617ab9\u2026REDACTED",
+      "key_preview": "617ab9e6809e\u20261213",
       "meta": {
-        "email": "daniel…REDACTED",
+        "email": "daniel\u2026REDACTED",
         "verify": "429 {error: 'Your account needs to have a verified phone num"
       },
       "status": "account created+email confirmed; free plan requires PHONE VERIFICATION -> search API hard 429",
@@ -443,10 +455,10 @@
     {
       "svc": "serpwrap",
       "display": "serpwrap",
-      "key": "1957e3…REDACTED",
-      "key_preview": "1957e3cd-a98…d9c5",
+      "key": "1957e3\u2026REDACTED",
+      "key_preview": "1957e3cd-a98\u2026d9c5",
       "meta": {
-        "email": "christ…REDACTED",
+        "email": "christ\u2026REDACTED",
         "verify": "credits 200 :: {\"credits\":{\"charged\":0,\"refunded\":0,\"remaini"
       },
       "status": "ok",
@@ -455,7 +467,7 @@
     {
       "svc": "somaapi",
       "display": "somaapi",
-      "key": "rotato…REDACTED",
+      "key": "rotato\u2026REDACTED",
       "key_preview": "rotator-local-pool",
       "meta": {},
       "status": "ok",
@@ -475,8 +487,8 @@
     {
       "svc": "tavily2",
       "display": "tavily2",
-      "key": "tvly-d…REDACTED",
-      "key_preview": "tvly-dev-2dh…B2Ka",
+      "key": "tvly-d\u2026REDACTED",
+      "key_preview": "tvly-dev-2dh\u2026B2Ka",
       "meta": {},
       "status": "ok",
       "limit": ""
@@ -484,8 +496,8 @@
     {
       "svc": "vibebuild",
       "display": "vibebuild",
-      "key": "536634…REDACTED",
-      "key_preview": "536634b0b5c8…d2ed",
+      "key": "536634\u2026REDACTED",
+      "key_preview": "536634b0b5c8\u2026d2ed",
       "meta": {},
       "status": "ok",
       "limit": ""
@@ -493,7 +505,7 @@
     {
       "svc": "vveai",
       "display": "vveai",
-      "key": "rotato…REDACTED",
+      "key": "rotato\u2026REDACTED",
       "key_preview": "rotator-local-pool",
       "meta": {},
       "status": "ok",
@@ -502,8 +514,8 @@
     {
       "svc": "xai",
       "display": "xai",
-      "key": "g2a_7c…REDACTED",
-      "key_preview": "g2a_7c502f83…A8Tq",
+      "key": "g2a_7c\u2026REDACTED",
+      "key_preview": "g2a_7c502f83\u2026A8Tq",
       "meta": {},
       "status": "ok",
       "limit": ""
@@ -511,10 +523,10 @@
     {
       "svc": "you",
       "display": "you",
-      "key": "ydc-sk…REDACTED",
-      "key_preview": "ydc-sk-95b38…5cee",
+      "key": "ydc-sk\u2026REDACTED",
+      "key_preview": "ydc-sk-95b38\u20265cee",
       "meta": {
-        "email": "zweima…REDACTED",
+        "email": "zweima\u2026REDACTED",
         "verify": "{'ok': True, 'status': 200, 'web_results': 3, 'endpoint': 'P"
       },
       "status": "ok",
